@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.usidelip.newplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.usidelip.newplugin.MyBundle
 
 class MyApplicationService {
 
